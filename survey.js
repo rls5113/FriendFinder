@@ -43,7 +43,7 @@ function calcScoreDiff(scores, friend) {
 		diff += Math.abs(scores[i] - friend[i]);
 		count++;
 	}
-    // console.log("difference: "+diff+"   bestFriend difference: "+bestFriend.diff);
+    console.log("difference: "+diff+"   bestFriend difference: "+bestFriend.diff);
     return diff;
 
 }
@@ -51,7 +51,6 @@ function calcScoreDiff(scores, friend) {
 
 
 $('#submit').on('click', () => {
-	debugger;
 	var userName = $('#name').val().trim();
 	var imag = $('#image').val().trim();
 	var ans1 = $('#q1').val().trim();

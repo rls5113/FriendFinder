@@ -96,22 +96,6 @@ var friends = [
         ]
     },
     {
-        "name": "Bad Granny",
-        "photo": "https://imgflip.com/memetemplate/87080055/grandma",
-        "scores": [
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5",
-            "5"
-        ]
-    },
-    {
         "name": "Franz",
         "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIFzxNMkArTYkIzc_wyefQpelcR7suW3YwA9decXiJ-vRmPKR6",
         "scores": [
